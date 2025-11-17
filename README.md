@@ -26,6 +26,10 @@ cd projeto-nikel
 ```
 ______________________________________________________________________________________________
 
+## hospedagem
+- **vercel**
+[site](https://projeto-nikelkelvincamargo.vercel.app/)
+
 ## ✨ Destaques Técnicos
 
 ### 🎯 Tecnologias Utilizadas
