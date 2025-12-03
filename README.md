@@ -14,7 +14,7 @@ saldo e ter uma visão geral das finanças.
 
 ______________________________________________________________________________________________
 
-🛠️ Como Executar
+
 ## 🛠️ Como Executar
 
 ```bash
@@ -75,7 +75,7 @@ projeto-nikel/
 
 ______________________________________________________________________________________________
 
-🎯 Próximos Passos & Melhorias
+## 🎯 Próximos Passos & Melhorias
 
 ### 🛡️ Segurança com Banco de Dados
 - **Problema atual**: Dados no Local Storage (inseguro)
