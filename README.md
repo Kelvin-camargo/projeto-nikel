@@ -1,5 +1,11 @@
 # 🚀 Projeto Codai - front-end
 
+## hospedagem
+- **vercel**
+[site](https://projeto-nikelkelvincamargo.vercel.app/)
+
+______________________________________________________________________________________________
+
 ## 📋 Sobre o Projeto
 O **Projeto Nikel** é uma aplicação web para controle financeiro 
 pessoal, desenvolvido como demonstração de habilidades em desenvolvimento front-end. 
@@ -25,10 +31,6 @@ cd projeto-nikel
 # Instale a extensão Live Server e clique em "Go Live"
 ```
 ______________________________________________________________________________________________
-
-## hospedagem
-- **vercel**
-[site](https://projeto-nikelkelvincamargo.vercel.app/)
 
 ## ✨ Destaques Técnicos
 
